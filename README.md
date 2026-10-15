@@ -13,7 +13,7 @@ Windows + LDPlayer 9 환경에서 반복적인 일일 숙제를 간편하게 진
 
 ## 📦 다운로드
 
-### [👉 RC8.14 Beta 1.4 다운로드 페이지](https://github.com/parknana2222-ux/langmo-ld-helper/releases/tag/v1.10.44-RC8.14-Beta1.4)
+### https://github.com/parknana2222-ux/langmo-ld-helper/releases/tag/v1.10.44-RC8.14-beta1.4.4-hotfix1
 
 **Releases → Assets**에서 아래 파일을 다운로드하세요.
 
