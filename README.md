@@ -4,7 +4,7 @@
 
 Windows + LDPlayer 9 환경에서 반복적인 일일 숙제를 간편하게 처리하기 위해 만든 **비공식 개인 제작 프로그램**입니다.
 
-**현재 버전: v1.10.44-RC8.15 · Beta 1.6.35 (2026-10-29)**
+
 
 > 🎉 **Python 설치 없이 EXE로 실행할 수 있습니다!**
 >
@@ -16,8 +16,7 @@ Windows + LDPlayer 9 환경에서 반복적인 일일 숙제를 간편하게 처
 
 ## 📦 최신 버전 다운로드
 
-### [📥 RC8.15 Beta 1.6.35 다운로드](https://github.com/parknana2222-ux/langmo-ld-helper/releases)
-
+### 
 **Releases → Assets**에서 이름이 `_User_EXE.zip`으로 끝나는 사용자용 파일을 다운로드하세요.
 
 **설치 방법:** ZIP 전체 압축 해제 → `랑모도우미` 폴더 → `랑모도우미.exe` 실행
